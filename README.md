@@ -21,19 +21,19 @@ A responsive MERN-stack application to manage student or team member profiles. T
 
 ### 📌 Home Page
 
-![Home Page Screenshot](Screenshots/CT4.jpg)
+![Home Page Screenshot](Screenshots/CT4.jpeg)
 
 ### 📌 Add Member Page
 
-![Add Member Screenshot](Screenshots/CT3.jpg)
+![Add Member Screenshot](Screenshots/CT3.jpeg)
 
 ### 📌 View Members Page
 
-![View Members Screenshot](Screenshots/CT2.jpg)
+![View Members Screenshot](Screenshots/CT2.jpeg)
 
 ### 📌 View Details Page
 
-![View Details Screenshot](Screenshots/CT1.jpg)
+![View Details Screenshot](Screenshots/CT1.jpeg)
 
 ---
 
